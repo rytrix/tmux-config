@@ -1,4 +1,4 @@
 #! bin/bash
 
-git clone https://github.com/tmux-plugins/tpm plugins/tpm
+# git clone --depth=1 https://github.com/tmux-plugins/tpm plugins/tpm
 
